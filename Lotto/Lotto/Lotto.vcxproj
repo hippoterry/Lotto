@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fb98934b-79d9-4db1-8223-1c6d7bb20eb2}</ProjectGuid>
+    <ProjectGuid>{ac31ac23-9328-4fa4-933a-1f1c81889990}</ProjectGuid>
     <RootNamespace>Lotto</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
